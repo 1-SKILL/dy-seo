@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "updated": "2026-03-26",
+  "changelog": ["v1.0: 初始版本"],
+  "keyword_strategy": {
+    "core_words": {"length": "1-2 chars", "traffic": "very high", "competition": "very high"},
+    "longtail_words": {"length": "3-5 chars", "traffic": "medium", "competition": "medium-low"},
+    "blueocean_words": {"length": "5+ chars", "traffic": "small", "competition": "very low"}
+  },
+  "optimization_points": [
+    "title_keyword_placement",
+    "description_optimization",
+    "tag_pyramid",
+    "spoken_keyword_indexing",
+    "comment_section_keywords",
+    "collection_weight_stacking",
+    "publish_timing"
+  ],
+  "best_publish_times": ["07:00-09:00", "12:00-14:00", "18:00-22:00"],
+  "algorithm_notes": []
+}
